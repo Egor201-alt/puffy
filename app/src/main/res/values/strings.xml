@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Puffy</string>
+    <string name="notification_channel_name">Puffy connection</string>
+    <string name="notification_connected">Connected — %1$s</string>
+</resources>
